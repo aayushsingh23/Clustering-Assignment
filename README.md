@@ -62,9 +62,5 @@ This document presents the results of clustering analysis using different techni
 | 4        | 0.270510   | 322.707847        | 0.964873      |
 | 5        | 0.267302   | 335.386461        | 0.924378      |
 
-## MeanShift Clustering Results
 
-(No results provided for MeanShift Clustering)
-
-This document provides a structured view of the clustering results, allowing for easy comparison between different preprocessing techniques.
 
